@@ -1,0 +1,82 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin:0px 20px;
+    align-items: center;
+}
+.leftText{
+    text-align: left;
+    margin-left:20px;
+}
+.table{
+    margin-left: 20px;
+}
+.links{
+    display: flex;
+    align-items: center;
+}
+.middleRow{
+    display: flex;
+}
+.box{
+    display: flex;
+    margin-left:20px;
+    border: 2px solid black;
+    padding:20px;
+}
+.leftCol{
+    text-align: left;
+    margin-right: 50px;
+}
+.button{
+    background-color: red;
+    width:150px;
+    height:30px;
+    color:white;
+    font-size: 13pt;
+    font-weight: 700;
+}
+.boxNew{
+    display:flex;
+    padding:20px;
+}
+.outer{
+    border:2px solid black;
+    width:600px;
+}
+.leftColNew{
+    text-align: left;
+    margin-right: 50px;
+}
+.skill{
+    text-align: left;
+}
+.submit{
+    width:150px;
+    height:30px;
+    margin-bottom: 15px;
+    margin-right: 400px;
+    background-color: rgb(43,120,228);
+    color:white;
+    font-size: 13pt;
+    font-weight: 700;
+}
+.text{
+    border: 3px solid black;
+}
+.form{
+    margin-left: 15px;
+}
+table,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    background-color: rgb(238,238,238);
+}
+th{
+    background-color: rgb(204,204,204);
+}
+td{
+    width:150px;
+    text-align: left;
+    padding:0px 10px;
+}
