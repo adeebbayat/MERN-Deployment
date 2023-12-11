@@ -13,7 +13,7 @@ const Main = (props) => {
                 setPets(res.data);
                 setLoaded(true);
             })
-            .catch(err => console.error(err));
+            .catch(err => console.log(err));
     },[]);
 
     
